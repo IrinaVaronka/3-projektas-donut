@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: /
 
-Design: [DONUT](https://medium.muz.li/404-page-inspiration-de4ec8618693)
+Design: [DONUT](https://miro.medium.com/max/1400/1*6wJl6D8EFU6iG_CoY18hsQ.webp)
 
 ## 🎯 Project features/goals
 
